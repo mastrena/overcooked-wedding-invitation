@@ -90,6 +90,15 @@ overcooked-wedding-invitation/
 
 请发送部署后的 HTTPS 网址，不要发送电脑上的 `index.html`、`localhost` 或仓库链接。推荐先找 2～3 位亲友分别在 iPhone 和 Android 上测试，再在微信发送链接和二维码。完整步骤见 [分享与发布前检查](./SHARE.zh-CN.md)。
 
+## 支持这个模板
+
+如果这个项目对你有帮助，欢迎扫描下方二维码请开发者喝杯咖啡。感谢每一份支持。
+
+<p align="center">
+  <img src="./public/assets/sponsor-wechat.jpg" alt="微信赞赏码" width="260" />
+  <img src="./public/assets/sponsor-alipay.jpg" alt="支付宝赞赏码" width="260" />
+</p>
+
 ## 版权与非官方声明
 
 本项目为非官方、非商业的粉丝风格创作，与《胡闹厨房》及相关权利人没有隶属、赞助或认可关系。原创代码采用 [MIT License](./LICENSE)。
