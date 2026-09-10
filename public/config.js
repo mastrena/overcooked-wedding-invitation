@@ -7,7 +7,7 @@
 
 window.WEDDING_INVITATION = {
   // 1. 新郎与新娘信息（占位符）
-  heroName: '新郎名字 & 新娘名字',
+  heroName: '新郎&新娘',
   englishName: 'CHEFS OF HONOR',
 
   // 2. 时间：dateTime 用于倒计时，必须保持 2030-10-01T18:30:00+08:00 这种格式
